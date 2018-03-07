@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class hi
+public class timeloop
 {
     public static void main(String args[])
     {
