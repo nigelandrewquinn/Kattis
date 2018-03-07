@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class lol
+public class r2
 {
     public static void main(String args[])
     {
