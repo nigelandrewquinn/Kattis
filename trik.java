@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Trik 
+public class trik 
 {
 	public static void main(String[] args) 
 	{
