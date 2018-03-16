@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TheEasiestProblemIsThisOne 
+public class easiest 
 {
 	public static void main(String[] args) 
 	{
