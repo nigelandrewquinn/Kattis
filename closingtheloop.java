@@ -1,5 +1,5 @@
 import java.util.*;
-public class ClosingTheLoop {
+public class closingtheloop {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int tests = Integer.parseInt(scan.next());
