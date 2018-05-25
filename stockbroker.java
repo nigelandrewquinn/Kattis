@@ -5,8 +5,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 public class stockbroker {
 	public static void main(String[] args) throws IOException{
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));         
+	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));      
         long money = 100, shares = 0;
 		int price = 0;
 		boolean up = false;
